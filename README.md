@@ -15,3 +15,11 @@ Includes guided meditation and breathing exercises.
 Community support includes: creating a forum or chat feature for peer support.
 In case things go out of hands for some users where this platform is not afraid to discuss difficult topics like suicide prevention, we provide a directory of mental health professionals and emergency contacts.
 
+how to open project:
+
+open terminal in vs code
+execute:
+npm install
+ng serve
+
+
