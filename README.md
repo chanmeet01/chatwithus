@@ -1,4 +1,4 @@
-# chatwithus
+# ChatWithUs
  ChatWithUs prototype project for Codeslush hackathon
  
  Track: Health Tech
