@@ -15,6 +15,18 @@ Includes guided meditation and breathing exercises.
 Community support includes: creating a forum or chat feature for peer support.
 In case things go out of hands for some users where this platform is not afraid to discuss difficult topics like suicide prevention, we provide a directory of mental health professionals and emergency contacts.
 
+Technologies used: JavaScript
+
+AngularJS
+
+Figma
+
+MongoDB
+
+HTML/CSS
+
+Nodejs
+
 How to open project:
 
 https://www.locofy.ai/preview/NBCdqZ4HDJG%2BstygUUwqQL0lw0WXC84PclT4UbUTWIaYcrFSTySTPOBCQUVWkTGxHnszaMon%2FggmnikR%2BgUOoatPYfjGV9ACNA%3D%3D/ChatWithUs
