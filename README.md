@@ -17,6 +17,10 @@ In case things go out of hands for some users where this platform is not afraid 
 
 How to open project:
 
+https://www.locofy.ai/preview/NBCdqZ4HDJG%2BstygUUwqQL0lw0WXC84PclT4UbUTWIaYcrFSTySTPOBCQUVWkTGxHnszaMon%2FggmnikR%2BgUOoatPYfjGV9ACNA%3D%3D/ChatWithUs
+
+(live preview)
+
 Open terminal in Visual Studio Code
 Execute the following statements:
 npm install
